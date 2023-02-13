@@ -1,0 +1,2 @@
+User-agent: * Allow: /
+Sitemap: https://ghzhdtkfk.github.io/seoul/sitemap.xml
